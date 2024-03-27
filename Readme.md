@@ -40,6 +40,3 @@ We build upon the strengths of frame-by-frame classification using EfficientNet 
 
 * **Ensemble Learning:**  Investigate combining multiple models for improved accuracy and generalization.
 
-## Usage, Contributing, License, and Contact
-
-[Include these sections as explained in the earlier response] 
